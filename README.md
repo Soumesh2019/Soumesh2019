@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Soumesh Kumar
+- 👀 I’m interested in Websites
+- 🌱 I’m currently learning Web Developement
