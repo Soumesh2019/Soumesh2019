@@ -6,7 +6,8 @@ I am a Self-Taught Full Stack Website and Mobile Developer specialized in develo
 
 Skills: HTML / CSS / JavaScript / React / NodeJs / Express / Mongoose / React Native
 
-- 🔭 I’m currently working on  API based Projects, Advanced Web Apps 
+- 🔭 I’m currently working on  API based Projects, Advanced Web Apps
+- 🌱 I’m currently learning Software Development with Python
 - 📫 How to reach me: [Gmail](mailto:soumeshkumar57@gmail.com) 
 
 
