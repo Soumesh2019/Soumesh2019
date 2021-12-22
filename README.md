@@ -1,6 +1,6 @@
-## Hello 👋, I am Soumesh Kumar Bihari
+## Hello👋, I am Soumesh Kumar Bihari
 ### Full Stack Web And Mobile Developer.
-![Banner.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Banner.](https://res.cloudinary.com/diawchulw/image/upload/v1640151465/portfolio/Full_Stack_s6qkk0.png)
 
 I am a Self-Taught Full Stack Website and Mobile Developer specialized in developing web apps with **MERN** Technology. My technicalities also include developing **React Native** Apps.
 
