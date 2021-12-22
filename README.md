@@ -1,4 +1,4 @@
-### Hello 👋,, I am Soumesh Kumar Bihari
+### Hello 👋, I am Soumesh Kumar Bihari
 #### Full Stack Web And Mobile Developer.
 ![Banner.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
